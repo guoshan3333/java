@@ -4,3 +4,4 @@
 * develop
 * hadoop
 * js
+* 无公钥
